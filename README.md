@@ -100,6 +100,7 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+<img width="421" height="90" alt="Screenshot 2025-09-10 155043" src="https://github.com/user-attachments/assets/81a1afe9-0723-4bbf-8f32-8ecc2ab9619a" />
 
 ## 11)	rename Command
 
